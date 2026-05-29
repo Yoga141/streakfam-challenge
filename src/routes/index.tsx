@@ -168,7 +168,7 @@ function Landing() {
 
             <img
               src={communitySpotlight}
-              alt="Tiga mahasiswa high-five di gym dengan pencahayaan neon"
+              alt="Barbel dan dumbbell di gym dengan pencahayaan neon"
               className="w-full aspect-[3/4] object-cover rounded-3xl outline-1 -outline-offset-1 outline-white/10"
               loading="lazy"
             />
