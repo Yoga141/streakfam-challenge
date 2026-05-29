@@ -152,11 +152,11 @@ function Landing() {
               </h3>
               <div className="space-y-6">
                 <div className="flex items-center justify-between">
-                  <span className="text-white/80">1. PowerLifters UI</span>
+                  <span className="text-white/80">1. King Nashir</span>
                   <span className="font-bold">42 Hari</span>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-white/80">2. Yoga-nauts ITB</span>
+                  <span className="text-white/80">2. Jexper</span>
                   <span className="font-bold">38 Hari</span>
                 </div>
                 <div className="flex items-center justify-between text-brand-primary">
