@@ -156,7 +156,7 @@ function Landing() {
                   <span className="font-bold">42 Hari</span>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-white/80">2. Jexper</span>
+                  <span className="text-white/80">2. Amba</span>
                   <span className="font-bold">38 Hari</span>
                 </div>
                 <div className="flex items-center justify-between text-brand-primary">
