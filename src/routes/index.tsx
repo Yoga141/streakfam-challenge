@@ -196,7 +196,7 @@ function Landing() {
       </footer>
 
       {/* Sticky Mobile Action */}
-      <div className="hidden fixed bottom-8 left-1/2 -translate-x-1/2 w-[calc(100%-3rem)] max-w-md md:hidden z-40">
+      <div className="fixed bottom-8 left-1/2 -translate-x-1/2 w-[calc(100%-3rem)] max-w-md md:hidden z-40">
         <button className="w-full py-5 bg-white text-black font-black uppercase tracking-[0.2em] text-sm rounded-full shadow-2xl shadow-brand-primary/20">
           Log Workout
         </button>
